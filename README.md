@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israjime
-- 👀 I’m interested in web design and development
+- 👀 I’m interested in web design and game development
 - 🌱 I’m currently learning python, javascript, react, css, html
 
 <!---
