@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @israjime
 - 👀 I’m interested in web design and game development
-- 🌱 I’m currently learning python, javascript, react, css, html
+- 🌱 I’m currently learning python, javascript, react, css & html
 
 <!---
 israjime/israjime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
