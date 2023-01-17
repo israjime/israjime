@@ -2,7 +2,7 @@
 - 📚 I am currently completing a Computer Science undergraduate degree.
 - 🏅 I have a Bachelor of Science degree specializing in Psychology.
 - 👀 I’m interested in web design and game development.
-- 🌱 I’m currently learning Python, JavaScript,CSS & HTML, C and Java.
+- 🌱 I’m currently learning Python, C, Java, JavaScript, CSS & HTML.
 - 🎮 My hobbies outside of programming include video games, reading, skating and snowboarding.
 
 <!---
