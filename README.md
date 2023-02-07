@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isra!
+- 👋 Hello, World!
 - 📚 I am currently completing a Computer Science undergraduate degree.
 - 🏅 I have a Bachelor of Science degree specializing in Psychology.
 - 👀 I’m interested in web design and game development.
